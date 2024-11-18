@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="ApiCat" width="350px" src="https://cdn.apicat.net/uploads/2d02ff2f6b19d3d6d3f134c1872484aa.png"/>
+    <img alt="ApiCat" width="350px" src="https://cdn.apicat.ai/uploads/github-logo.png"/>
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/chat-Discord-4E5AF0?logo=Discord">
     </a>
     <a href="https://github.com/apicat/apicat/blob/main/LICENSE">
-        <img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-green">
+        <img alt="GitHub License" src="https://img.shields.io/github/license/apicat/apicat">
     </a>
 </p>
 
@@ -45,8 +45,8 @@ docker compose up -d
 - [Discord](https://discord.gg/BdF8Cd3G)
 - 微信群
 
-![Wechat Group](https://cdn.apicat.net/uploads/01bfb23802cdfad49f0d560ee80fc5e3.png)
+![Wechat Group](https://cdn.apicat.ai/uploads/wechat-group-qrcode.png)
 
 ## License
 
-[MIT](https://github.com/apicat/apicat/blob/main/LICENSE)
+[Apache-2.0](https://github.com/apicat/apicat/blob/main/LICENSE)

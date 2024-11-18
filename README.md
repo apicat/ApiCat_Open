@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="ApiCat" width="350px" src="https://cdn.apicat.net/uploads/2d02ff2f6b19d3d6d3f134c1872484aa.png"/>
+    <img alt="ApiCat" width="350px" src="https://cdn.apicat.ai/uploads/github-logo.png"/>
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/chat-Discord-4E5AF0?logo=Discord">
     </a>
     <a href="https://github.com/apicat/apicat/blob/main/LICENSE">
-        <img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-green">
+        <img alt="GitHub License" src="https://img.shields.io/github/license/apicat/apicat">
     </a>
 </p>
 
@@ -46,4 +46,4 @@ If you have anything you would like to discuss with us, please join our communit
 
 ## License
 
-[MIT](https://github.com/apicat/apicat/blob/main/LICENSE)
+[Apache-2.0](https://github.com/apicat/apicat/blob/main/LICENSE)
